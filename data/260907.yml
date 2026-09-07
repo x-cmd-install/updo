@@ -5,13 +5,13 @@ about:
   head: 45a7601
   archived: false
   latestVersion: "v0.4.8"
-  collectedAt: 2026-09-07T04:44:40Z
+  collectedAt: 2026-09-07T19:39:34Z
 timeline:
   created: 2023-12-26
   lastCommit: 2026-05-26
   lastRelease: 2026-05-26
 popularity:
-  star: 1131
+  star: 1132
   watcher: 11
   fork: 61
   release: 44
@@ -83,7 +83,7 @@ total:
   commit: 163
 ---
 path: /home/runner/.x-repo/github.com/Owloops/updo
-collectedAt: 2026-09-07T04:44:41Z
+collectedAt: 2026-09-07T19:39:35Z
 loc:
   Go:
     code: 9176
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:44:42+00:00
+  collectedAt: 2026-09-07T19:39:36+00:00
   platform:
     darwin/arm64:
       name:  updo_Darwin_arm64
