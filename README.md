@@ -12,6 +12,18 @@ Uptime monitoring CLI tool with alerting and advanced settings
 x install updo
 ```
 
+## Code insight
+
+Total: **10,570** lines of code across **62** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 9,176 | 21 | 1,468 | 57 |
+| Json | 928 | 0 | 0 | 1 |
+| Sh | 155 | 1 | 34 | 1 |
+| Toml | 85 | 18 | 18 | 2 |
+| Makefile | 80 | 0 | 14 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Owloops/updo>
@@ -22,6 +34,25 @@ x install updo
 - **Latest**: `v0.4.8` (2026-05-26)
 - **Last commit**: 2026-05-26
 - **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 1,132 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 8
+
+## Totals (cumulative)
+
+- **Releases**: 44 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 5 · **Commits**: 163
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 2 | 7 | 1 | 0 | 1 | 13 |
+| 360d | 2025-09-15 | 5 | 9 | 1 | 2 | 1 | 32 |
+| last720d | 2024-09-20 | 34 | 12 | 1 | 11 | 5 | 130 |
 
 ## Release assets
 
@@ -43,33 +74,13 @@ x install updo
 | [updo_Windows_arm64.exe](https://github.com/Owloops/updo/releases/download/v0.4.8/updo_Windows_arm64.exe) | 17.0 MiB | `native/win/arm64` |
 | [updo_Windows_x86_64.exe](https://github.com/Owloops/updo/releases/download/v0.4.8/updo_Windows_x86_64.exe) | 18.2 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,132 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 8
+Reported by **4** distros on [repology.org](https://repology.org/project/updo). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 44 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 5 · **Commits**: 163
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 5 | 9 | 1 | 2 | 1 | 32 |
-
-## Code size
-
-Total: **10,570** lines of code across **62** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 9,176 | 21 | 1,468 | 57 |
-| Json | 928 | 0 | 0 | 1 |
-| Sh | 155 | 1 | 34 | 1 |
-| Toml | 85 | 18 | 18 | 2 |
-| Makefile | 80 | 0 | 14 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Void | `0.4.8` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +91,4 @@ Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:57:19Z._
