@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8215304,
       "digest": "sha256:2309b6fe2c1ffc2316b2a2c26328fc2bdccf469962f0986598e64917c0f26a04",
-      "download_count": 70,
+      "download_count": 71,
       "created_at": "2026-05-26T08:02:23Z",
       "updated_at": "2026-05-26T08:02:23Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_0.4.8_linux_amd64.pkg.tar.zst"
