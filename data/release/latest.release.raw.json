@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1275,
       "digest": "sha256:21caac97ccf6dc68e471b3de0401dfe11401181e6fe381e3455b15637015fe08",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-05-26T08:02:24Z",
       "updated_at": "2026-05-26T08:02:24Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8215304,
       "digest": "sha256:2309b6fe2c1ffc2316b2a2c26328fc2bdccf469962f0986598e64917c0f26a04",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-05-26T08:02:23Z",
       "updated_at": "2026-05-26T08:02:23Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_0.4.8_linux_amd64.pkg.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18143426,
       "digest": "sha256:cee058534e69aefd024ef2d27bc3db1d5ba66b89eba000c2bae687530fa2fd67",
-      "download_count": 118,
+      "download_count": 120,
       "created_at": "2026-05-26T08:02:19Z",
       "updated_at": "2026-05-26T08:02:20Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_Darwin_arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 17877504,
       "digest": "sha256:fa6d2c4056945c11389f81e2946245d97f0a4fd8bf310fb0c18a6b1de80a178a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-05-26T08:02:19Z",
       "updated_at": "2026-05-26T08:02:20Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_Windows_arm64.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 19092992,
       "digest": "sha256:b47516485fbe1507382238c02057d5db072cfa665162ab5623fba06333f93005",
-      "download_count": 129,
+      "download_count": 131,
       "created_at": "2026-05-26T08:02:21Z",
       "updated_at": "2026-05-26T08:02:22Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_Windows_x86_64.exe"
