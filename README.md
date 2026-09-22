@@ -47,12 +47,12 @@ Total: **10,570** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-25 | 2 | 4 | 1 | 0 | 1 | 13 |
-| 360d | 2025-09-26 | 5 | 9 | 1 | 2 | 1 | 29 |
-| last720d | 2024-10-01 | 34 | 12 | 1 | 11 | 5 | 130 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-26 | 2 | 4 | 1 | 0 | 1 | 13 |
+| 360d | 2025-09-27 | 5 | 9 | 1 | 2 | 1 | 29 |
+| last720d | 2024-10-02 | 34 | 12 | 1 | 11 | 5 | 130 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:04:13Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:59:18Z._
