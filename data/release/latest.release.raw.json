@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8215304,
       "digest": "sha256:2309b6fe2c1ffc2316b2a2c26328fc2bdccf469962f0986598e64917c0f26a04",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-05-26T08:02:23Z",
       "updated_at": "2026-05-26T08:02:23Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_0.4.8_linux_amd64.pkg.tar.zst"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8387328,
       "digest": "sha256:322ef0246c33a050d6f9e558394f5f250df0ef1faef71650426ff1d667e8ac5b",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-05-26T08:02:22Z",
       "updated_at": "2026-05-26T08:02:23Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_0.4.8_linux_amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7860369,
       "digest": "sha256:be15d5ba04f7b37c25225e8b976a00a2315b28f491aac0c0f1ff3655fce8ebd5",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-26T08:02:22Z",
       "updated_at": "2026-05-26T08:02:23Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.4.8/updo_0.4.8_linux_arm64.rpm"
