@@ -37,7 +37,7 @@ Total: **10,570** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,137 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 8
+- **Stars**: 1,138 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **10,570** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 1 | 1 | 1 | 0 | 1 | 6 |
-| 360d | 2025-10-26 | 5 | 9 | 1 | 1 | 1 | 27 |
-| last720d | 2024-10-31 | 34 | 12 | 1 | 11 | 5 | 130 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 1 | 1 | 1 | 0 | 1 | 6 |
+| 360d | 2025-10-27 | 5 | 9 | 1 | 1 | 1 | 27 |
+| last720d | 2024-11-01 | 34 | 12 | 1 | 11 | 5 | 130 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:48:22Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:47Z._
