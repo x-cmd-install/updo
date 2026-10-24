@@ -37,22 +37,22 @@ Total: **10,570** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,138 · **Forks**: 61 · **Open issues**: 28 · **Contributors**: 8
+- **Stars**: 1,137 · **Forks**: 61 · **Open issues**: 29 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 5 · **Commits**: 163
+- **Releases**: 44 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 23 · **Open issues**: 6 · **Commits**: 163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 1 | 1 | 1 | 0 | 1 | 6 |
-| 360d | 2025-10-28 | 4 | 9 | 1 | 1 | 1 | 27 |
-| last720d | 2024-11-02 | 34 | 12 | 1 | 11 | 5 | 130 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-27 | 1 | 1 | 1 | 0 | 2 | 6 |
+| 360d | 2025-10-29 | 4 | 9 | 1 | 1 | 2 | 27 |
+| last720d | 2024-11-03 | 34 | 12 | 1 | 11 | 6 | 130 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:53:11Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:45:42Z._
