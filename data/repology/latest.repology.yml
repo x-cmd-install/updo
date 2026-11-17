@@ -4,8 +4,8 @@
     - updo
     - updo-debuginfo
   visiblename: updo
-  version: 0.4.8
-  origversion: 0.4.8-alt1
+  version: 0.4.10
+  origversion: 0.4.10-alt1
   status: newest
   summary: Uptime monitoring CLI tool
   maintainers:
@@ -18,9 +18,9 @@
   srcname: updo
   binname: updo
   visiblename: updo
-  version: 0.4.8
-  origversion: 0.4.8-1
-  status: newest
+  version: 0.4.9
+  origversion: 0.4.9-1
+  status: outdated
   summary: Uptime monitoring CLI tool with alerting and advanced settings
   maintainers:
     - kemelzaidan@aur
@@ -30,8 +30,8 @@
   srcname: updo-bin
   binname: updo-bin
   visiblename: updo-bin
-  version: 0.4.8
-  origversion: 0.4.8-1
+  version: 0.4.10
+  origversion: 0.4.10-1
   status: newest
   summary: Uptime monitoring CLI tool with alerting and advanced settings
   maintainers:
@@ -45,7 +45,7 @@
   visiblename: updo
   version: 0.4.8
   origversion: 0.4.8_2
-  status: newest
+  status: outdated
   summary: Uptime monitoring CLI tool with alerting and advanced settings
   maintainers:
     - git@yushi.one
