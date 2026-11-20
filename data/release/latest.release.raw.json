@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8954740,
       "digest": "sha256:22f68a47536db5d5add514ab1773044a25d1b56d0f134bc4d86e021d93d1f73f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-17T15:57:52Z",
       "updated_at": "2026-11-17T15:57:53Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.5.1/updo_0.5.1_linux_amd64.pkg.tar.zst"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19023618,
       "digest": "sha256:d345db01a8854f8375c12e15a928fd4d3434b1245646ce07b9849fbbacdb0d19",
-      "download_count": 31,
+      "download_count": 36,
       "created_at": "2026-11-17T15:57:49Z",
       "updated_at": "2026-11-17T15:57:50Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Darwin_arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 20205728,
       "digest": "sha256:9359652bb838eeeabbdebb67d4eb5a572d3b335f573db0001c18e3791ddac1b7",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-11-17T15:57:49Z",
       "updated_at": "2026-11-17T15:57:50Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Linux_x86_64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 18812416,
       "digest": "sha256:9bf74829748d734a3cd5c4543ffdb2c509e4ca204f5767cb7c0b660268692f80",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-17T15:57:47Z",
       "updated_at": "2026-11-17T15:57:48Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Windows_arm64.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20445184,
       "digest": "sha256:b0c4b2842cae10a8a2efcf04b267cd164e776ba9c3ba7660bc4df0852527e4dc",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-17T15:57:47Z",
       "updated_at": "2026-11-17T15:57:48Z",
       "browser_download_url": "https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Windows_x86_64.exe"
