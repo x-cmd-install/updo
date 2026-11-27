@@ -48,12 +48,12 @@ Total: **11,137** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 12 | 0 | 2 | 0 | 0 |
-| last60d | 2026-09-27 | 4 | 12 | 0 | 2 | 1 | 0 |
-| 90d | 2026-08-28 | 4 | 12 | 0 | 2 | 1 | 0 |
-| last180d | 2026-05-30 | 4 | 12 | 0 | 3 | 1 | 0 |
-| 360d | 2025-12-01 | 8 | 20 | 0 | 3 | 1 | 0 |
-| last720d | 2024-12-06 | 38 | 24 | 0 | 17 | 2 | 163 |
+| 30d | 2026-10-28 | 4 | 12 | 0 | 2 | 0 | 21 |
+| last60d | 2026-09-28 | 4 | 12 | 0 | 2 | 1 | 21 |
+| 90d | 2026-08-29 | 4 | 12 | 0 | 2 | 1 | 21 |
+| last180d | 2026-05-31 | 4 | 12 | 0 | 3 | 1 | 21 |
+| 360d | 2025-12-02 | 8 | 20 | 0 | 3 | 1 | 42 |
+| last720d | 2024-12-07 | 38 | 24 | 0 | 17 | 2 | 163 |
 
 ## Release assets
 
@@ -75,6 +75,14 @@ Total: **11,137** lines of code across **76** files in the top 5 languages.
 | [updo_Windows_arm64.exe](https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Windows_arm64.exe) | 17.9 MiB | `native/win/arm64` |
 | [updo_Windows_x86_64.exe](https://github.com/Owloops/updo/releases/download/v0.5.1/updo_Windows_x86_64.exe) | 19.5 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/updo). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Void | `0.4.8` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `updo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +92,4 @@ Install metadata for updo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:32:56Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:44:40Z._
